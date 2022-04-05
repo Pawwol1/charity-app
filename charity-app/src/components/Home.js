@@ -13,6 +13,7 @@ function Home() {
             <HomeThreeColumns />
             <Home4Steps />
             <HomeAbout/>
+            <HomeWho />
             <HomeFooter/>
             <MobileScrollBtn />
         </main>
