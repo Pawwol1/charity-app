@@ -5,6 +5,8 @@ import HomeHeader from './home/HomeHeader';
 import MobileScrollBtn from './menu/MobileScrollBtn';
 import HomeAbout from "./home/HomeAbout";
 import HomeFooter from "./home/HomeFooter";
+import HomeWho from "./home/HomeWho";
+import HomeContactForm from "./home/HomeContactForm";
 
 function Home() {
     return (
@@ -14,6 +16,7 @@ function Home() {
             <Home4Steps />
             <HomeAbout/>
             <HomeWho />
+            <HomeContactForm/>
             <HomeFooter/>
             <MobileScrollBtn />
         </main>

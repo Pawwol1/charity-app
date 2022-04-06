@@ -12,7 +12,7 @@ class HomeWho extends Component {
         itemsPerPage: 3,
     }
 
-    //fetching organizations data
+    // fetching organizations data
 
     async componentDidMount() {
         await this.props.fetchFundData();
@@ -63,7 +63,7 @@ class HomeWho extends Component {
                     <button className = {this.state.who === "organizations" ? this.state.activeBtn : ""} name = "organizations" onClick = {this.handleWhoButton}>Organizacjom pozarządowym</button>
                     <button className = {this.state.who === "locals" ? this.state.activeBtn : ""} name = "locals" onClick = {this.handleWhoButton}>Lokalnym zbiórkom</button>
                 </div>
-                <Foundations items= {fund ?.items || []} itemsPerPage = {this.state.itemsPerPage} currentPage = {this.state.currentPage} />
+                <Foundations items= {fund.items || []} itemsPerPage = {this.state.itemsPerPage} currentPage = {this.state.currentPage} />
                 <ul className = "section__who__pages">
                     { pageNumbersList }
                 </ul>
