@@ -64,9 +64,10 @@
     align-items: center;
     p {
       font-weight: 700;
-      letter-spacing: normal;
+      letter-spacing: 0.2;
       color: $color-base;
       width: 200px;
+      font-family: "open-sans";
     }
   }
 }
