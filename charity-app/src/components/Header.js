@@ -1,11 +1,11 @@
 import React from 'react'
 import MobileMenu from './menu/MobileMenu'
-// import Menu from './menu/Menu'
+import Menu from './menu/Menu'
 
 function Header() {
     return(
         <header>
-            {/*<Menu />*/}
+            <Menu />
             <MobileMenu />
         </header>
     )
