@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import AuthNav from "./AuthNav";
+// import AuthNav from "./AuthNav";
 import UserAuthNav from "./UserAuthNav";
 import UserNavigation from "./UserNavigation";
 import { connect } from "react-redux";
