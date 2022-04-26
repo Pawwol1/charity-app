@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5997c56b-4940-41c8-82a3-62047df805a4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2748cvgZ5h1U9QHmDKjQHuUcRez" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/pawe/Coderslab/charity-app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/scss" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5997c56b-4940-41c8-82a3-62047df805a4" name="Changes" comment="" />
+      <created>1648568080894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648568080894</updated>
+      <workItem from="1648568083407" duration="1024000" />
+      <workItem from="1648637321935" duration="262000" />
+      <workItem from="1648737772286" duration="1091000" />
+      <workItem from="1648834849192" duration="21000" />
+      <workItem from="1648909527646" duration="1065000" />
+      <workItem from="1649100180227" duration="302000" />
+      <workItem from="1649158809173" duration="24000" />
+      <workItem from="1649193842075" duration="604000" />
+      <workItem from="1649266075930" duration="2348000" />
+      <workItem from="1649329378048" duration="41000" />
+      <workItem from="1649339047987" duration="848000" />
+      <workItem from="1649444437302" duration="188000" />
+      <workItem from="1649713177890" duration="376000" />
+      <workItem from="1649792010859" duration="265000" />
+      <workItem from="1649882653925" duration="550000" />
+      <workItem from="1649967252688" duration="466000" />
+      <workItem from="1650046506477" duration="248000" />
+      <workItem from="1650400670641" duration="218000" />
+      <workItem from="1650453666734" duration="48000" />
+      <workItem from="1650536104194" duration="28000" />
+      <workItem from="1650627263090" duration="155000" />
+      <workItem from="1650890606249" duration="3363000" />
+      <workItem from="1650967222017" duration="1505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

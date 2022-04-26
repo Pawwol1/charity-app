@@ -1,0 +1,14 @@
+.who-we-help {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  h1 {
+    text-align: center;
+    font-size: 2.4rem;
+    margin: 2rem 0;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+}

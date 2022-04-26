@@ -1,0 +1,9 @@
+@import "../../scss/colors";
+
+.entity-list {
+  max-width: 85rem;
+  width: 100%;
+  .entity-list-item:not(:first-child) {
+    border-top: 1px solid $color-divider;
+  }
+}

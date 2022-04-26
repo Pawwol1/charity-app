@@ -1,0 +1,25 @@
+@import "../../scss/colors";
+
+.entity-selector {
+  padding: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  button {
+    font-size: 1.5rem;
+    background: none;
+    width: 13rem;
+    border: 1px solid transparent;
+    padding: 1rem;
+    margin: 0 2rem;
+    .selected {
+      border: 1px solid $color-text-primary;
+    }
+    &:hover {
+      border: 1px solid $color-text-secondary;
+    }
+  }
+  .selected {
+    border: 1px solid $color-text-secondary;
+  }
+}

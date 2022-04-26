@@ -1,0 +1,13 @@
+@import "../../scss/colors";
+
+.page-selector {
+  display: flex;
+  .page-number {
+    border: 1px solid transparent;
+    padding: 1rem;
+    margin: 1rem;
+  }
+  .selected {
+    border: 1px solid black;
+  }
+}

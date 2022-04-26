@@ -1,0 +1,30 @@
+@import "../../scss/colors";
+
+.three-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  background-image: url("../../assets/3\ Columns\ Background.png");
+  h1,
+  h2,
+  p {
+    text-align: center;
+    color: $color-text-primary;
+  }
+  h1 {
+    font-size: 6rem;
+    font-weight: 300;
+  }
+  h2 {
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    margin: 2rem 0;
+  }
+  p {
+    font-weight: 300;
+    padding: 0 3rem;
+    line-height: 1.6rem;
+  }
+  .col {
+    margin: 5rem;
+  }
+}

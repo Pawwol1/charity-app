@@ -1,0 +1,30 @@
+@import "../../scss/colors";
+
+.steps-content {
+  background-color: $color-light-gray;
+  .container {
+    margin: 0 auto;
+    max-width: 62.5rem;
+    display: flex;
+  }
+  .item {
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    img {
+      margin: 1rem;
+    }
+    h1 {
+      text-align: center;
+      font-size: 1.1rem;
+    }
+    p {
+      text-align: center;
+    }
+    .divider {
+      width: 5rem;
+      border-bottom: 1px solid $color-divider;
+      margin: 0.8rem auto;
+    }
+  }
+}

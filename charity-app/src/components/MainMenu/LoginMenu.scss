@@ -1,0 +1,19 @@
+@import "../../scss/colors";
+
+.login-menu {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: flex-end;
+  li {
+    a {
+      color: $color-text-secondary;
+      text-decoration: none;
+      display: block;
+      margin: 0 1rem;
+      padding: 0.6rem;
+    }
+  }
+  .signup {
+    border: 1px solid $color-border-yellow;
+  }
+}

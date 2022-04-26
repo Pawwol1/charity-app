@@ -1,0 +1,35 @@
+@import "../../scss/colors";
+
+.about-us {
+  width: 100%;
+  background-color: $color-light-gray;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  .text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10rem 0;
+    h1 {
+      text-align: center;
+      font-size: 2.4rem;
+      margin: 2rem 0;
+    }
+    p {
+      text-align: center;
+      display: block;
+      margin: 3.5rem auto;
+      font-size: 1.9rem;
+      max-width: 42rem;
+      line-height: 3.5rem;
+    }
+    .signature {
+      align-self: flex-end;
+      margin-right: 9rem;
+    }
+  }
+  .image {
+    background-image: url("../../assets/People.jpg");
+    background-repeat: no-repeat;
+  }
+}
